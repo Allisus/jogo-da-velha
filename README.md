@@ -16,6 +16,7 @@ Certifique-se de ter o Python instalado em seu sistema. Em seguida, copie e cole
 
 
 Contribuição
+
 Se você quiser contribuir para este projeto, fique à vontade para abrir uma solicitação de pull request. Sinta-se à vontade para adicionar recursos adicionais, melhorias no código ou correções de bugs.
 
 Divirta-se jogando o Jogo da Velha
